@@ -122,7 +122,7 @@
     "matrix-react-test-utils": "^0.2.3",
     "matrix-web-i18n": "github:matrix-org/matrix-web-i18n",
     "mini-css-extract-plugin": "^0.12.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "mkdirp": "^1.0.4",
     "modernizr": "^3.11.7",
     "node-fetch": "^2.6.1",
