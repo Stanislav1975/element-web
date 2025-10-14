@@ -26,7 +26,7 @@ RUN dos2unix /src/scripts/docker-write-version.sh && bash /src/scripts/docker-wr
 
 
 # App
-FROM nginx:1.27.3-alpine
+FROM nginx:1.29.2-alpine
 
 COPY --from=builder /src/webapp /app
 
